@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Pasien</string>
+    <string name="delete_action">Delete</string>
+    <string name="edit_action">Edit</string>
+</resources>
